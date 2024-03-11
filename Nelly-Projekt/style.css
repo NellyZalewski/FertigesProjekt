@@ -1,0 +1,493 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+#header
+{
+    background-image: url(bilder/para-fitness.jpg);
+    height:80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.navbar-nav li a
+{
+    float: right;
+    color: #fff !important;
+}
+
+.navbar-brand img
+{
+    width: 150px;
+    margin-left:  30px;
+}
+
+.navbar-toggler
+{
+    border: none !important;
+    outline: none !important;
+}
+
+nav .fa-bars
+{
+    color: #fff ;
+    font-size: 26px;
+}
+
+
+#Karusell
+
+{
+
+    margin-left:  120px;   
+    margin-right:  120px;
+    margin-bottom: 20px;
+
+
+}
+
+
+/*----Willkommen Text---*/
+
+.Willkommen
+{
+    padding: 50px 100px;
+    margin-top: -130px;
+    margin-bottom: 20px;
+    background-color: #3a3434e7;
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+}
+
+
+/*---Features4--*/
+
+#features4
+{
+
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background:url(bilder/4MehrerePersonen.webp);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    
+}
+
+#features .col-md-6
+{
+    padding: 20px;
+}
+
+
+/*----MCFit -Vorstellung---*/
+
+#MCFit1
+{
+    background-color: #252f30;
+    padding-bottom: 100px;
+}
+
+#MCFit1 .col-md-6
+{
+    color: #ffe331;
+    padding:20px 10px;
+}
+
+#MCFit1 h3
+{
+    color: #ffe331;
+    margin:20px auto;
+}
+
+/*----FitX -Vorstellung---*/
+
+#FitX1
+{
+   background-color: black;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#FitX1 .col-md-6
+{
+   
+    color: #ed6a12;
+    padding:20px 10px;
+}
+
+#FitX1 h3
+{
+   
+    
+    margin:20px auto;
+}
+
+/*----John Reed -Vorstellung---*/
+
+#JohnReed1
+{
+   
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+#JohnReed1 .col-md-6
+{
+    background-color: black;
+    color: white;
+    padding:20px 10px;
+}
+
+#JohnReed1
+{
+    background-color: black;
+    color: white;
+    margin:20px auto;
+}
+
+
+/*----Features2---*/
+
+#features2
+{
+    margin-top: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background:url(bilder/Frau.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    
+}
+
+#features2 .col-md-6
+{
+    padding: 20px;
+}
+
+/*---Services---*/
+
+#Services
+{
+
+background-color: #3a3434e7;
+padding-top: 80px;
+padding-bottom: 80px;
+color: white;
+
+}
+
+#Services .col-md-4
+{
+    padding: 20px;
+
+}
+
+#Services .col-md-4 h4
+{
+    padding: 5px;
+  
+}
+
+#Services .col-md-4 p
+{
+    padding:5px;
+    text-align: justify;
+
+}
+
+.text::first-letter{
+
+    font-size: 40px;
+    border: 2px solid;
+    border-right: transparent;
+    padding-left: 5px;
+    font-weight: bold;
+    color: #f0e3e3e7;
+
+}
+
+/*---Features--*/
+
+#features
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background:url(bilder/Bizeps.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    
+}
+
+#features .col-md-6
+{
+    padding: 20px;
+}
+
+
+
+/*----MCFit -Vorstellung2---*/
+
+#MCFit
+{
+    
+    padding-bottom: 100px;
+}
+
+#MCFit .col-md-6
+{
+    color: #ffe331;
+    padding:20px 10px;
+}
+
+#MCFit h3
+{
+    color: #ffe331;
+    margin:20px auto;
+}
+
+/*----FitX -Vorstellung2---*/
+
+#FitX
+{
+   
+    padding-top: 30px;
+    padding-bottom: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#FitX .col-md-6
+{
+   
+    color: #ed6a12;
+    padding:20px 10px;
+}
+
+#FitX h3
+{
+   
+    
+    margin:20px auto;
+}
+
+/*----John Reed -Vorstellung2---*/
+
+#JohnReed
+{
+   
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+#JohnReed .col-md-6
+{
+    
+    color: black;
+    padding:20px 10px;
+}
+
+#JohnReed
+{
+    
+    color: black;
+    margin:20px auto;
+}
+
+
+
+
+/*---Contact--*/
+
+#contact
+{
+
+    background-color:#3a3434e7 ;
+}
+
+
+/*---Footer--*/
+
+#footer
+{
+
+padding:100px;
+background-color:#efefef;
+color:#013f7e;
+
+}
+
+.footer-logo
+{
+	width:150px;
+	margin-top:25px;
+	margin-bottom:15px;
+	
+}
+
+#footer h1
+{
+	
+	font-size:15px;
+	text-align:left;
+	margin-top:25px;
+	margin-bottom:25px;
+	
+}
+
+#footer p
+{
+	
+	font-size:12px;
+	text-align:left;
+
+}
+
+#footer .row .fa
+{
+	padding-right: 20px;
+	font-size:15px;
+	
+}
+
+
+#footer hr
+{
+	margin-top:10px;
+	
+}
+
+
+#footer .copyright
+{
+	margin-bottom:-80px;
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+
+#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl, #portfolio .container-xxl {
+    max-width: 2500px;
+  }
+  #portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box, #portfolio .container-xxl .portfolio-box {
+    position: relative;
+    display: block;
+  }
+  #portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption, #portfolio .container-xxl .portfolio-box .portfolio-box-caption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    opacity: 0;
+    color: #fff;
+    background: rgba(244, 98, 58, 0.9);
+    transition: opacity 0.25s ease;
+    text-align: center;
+  }
+  #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-category {
+    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-name {
+    font-size: 1.2rem;
+  }
+  #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
+    opacity: 1;
+  }
+  
+  .Worlds{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: 0.25em 0.25em;
+    color: #000;
+    background: transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
+    border: 0;
+    border-radius: 0.375rem;
+    opacity: 0.5;
+  }
+  .btn-close:hover {
+    color: #000;
+    text-decoration: none;
+    opacity: 0.75;
+  }
+  .btn-close:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(255, 200, 0, 0.25);
+    opacity: 1;
+  }
+  .btn-close:disabled, .btn-close.disabled {
+    pointer-events: none;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    opacity: 0.25;
+  }
+  
+  .btn-close-white {
+    filter: invert(1) grayscale(100%) brightness(200%);
+  }
+  
+  .portfolio-modal .close-modal {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  .portfolio-modal .close-modal:hover {
+    opacity: 0.3;
+  }
+  
+  .fact{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  }
+  
+  .text-uppercase{
+    color:plum;
+  }
+  
+  .text-uppercase2{
+    color:paleturquoise
+  }
+  
+  .text-uppercase3{
+  color:#fff;
+  background-color: grey;
+  }
+  
+  .item-intro{
+    font-size: medium;
+  
+  }
+
+  #Portfolio1{
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
